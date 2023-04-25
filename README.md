@@ -1,5 +1,5 @@
 # Data-Cleaning-in-Python
-In this project i utilized NumPy and Pandas libraries to clean churn data for a telecommunications company that provides phone and internet services to 7043 customers.
+In this project I utilized NumPy and Pandas libraries to clean churn data for a telecommunications company that provides phone and internet services to 7043 customers.
 The dataset from Maven Analytics includes details about customer demographics, location, services and their current status.
 
 #### Data Cleaning Process
